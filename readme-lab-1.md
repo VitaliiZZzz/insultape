@@ -12,6 +12,16 @@
 </br>
 
 # Lab
-## About team task management (screenshot/description)
+## About team task management
 
 ![trello](./docs/images/trello.png)
+
+## Logical components of games
+
+Game 1 (Heroes of the Storm):
+  - Движение (осуществляется кликами мыши)
+  - Каст автоатак
+  - Каст способностей
+  - Поуровневая система прокачки персонажа в течении раунда (усиление своих способностей путем добавления к ним нового функционала)
+  - Кастомизация персонажа
+  - Продвижение по рейтинговой лестнице
