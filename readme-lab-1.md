@@ -13,4 +13,5 @@
 
 # Lab
 ## About team task management (screenshot/description)
-> Залиште тут знімок екрану з вашого таск менеджера чи аргументуйте вибір, якщо обрали іншу стратегію.
+
+![trello](./docs/images/trello.png)
